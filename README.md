@@ -14,6 +14,7 @@
 ### Languages
 
 <img align="left" src="icons/python.svg" width="35px" />
+<img align="left" src="icons/Jupyter.svg" width="35px" />
 <img align="left" src="icons/perl.png" width="35px" />
 <img align="left" src="icons/fortran.png" width="32px" />
 <img align="left" src="icons/bash.svg" width="35px" />
