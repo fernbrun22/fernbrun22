@@ -9,8 +9,10 @@
 <a href="https://fb.com/fernandobrunodasilva" target="blank"><img align="left" src="icons/facebook.svg" alt="fernbrun22" width="22px" /></a>
 <a href="https://instagram.com/fernandobruno23" target="blank"><img align="left" src="icons/instagram.svg" alt="fernbrun22" width="22px" /></a>
 
+<br />
 
 ### Languages
 
 <img align="left" src="icons/python.svg" />
 <img align="left" src="icons/linux.png" />
+<img align="left" src="icons/perl.png" />
