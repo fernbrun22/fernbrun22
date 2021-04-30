@@ -13,8 +13,8 @@
 
 ### Languages
 
-<img align="left" src="icons/python.svg" />
-<img align="left" src="icons/perl.png" />
-<img align="left" src="icons/fortran.png" />
-<img align="left" src="icons/bash.svg" />
-<img align="left" src="icons/linux.png" />
+<img align="left" src="icons/python.svg" width="35px" />
+<img align="left" src="icons/perl.png" width="35px" />
+<img align="left" src="icons/fortran.png" width="35px" />
+<img align="left" src="icons/bash.svg" width="35px" />
+<img align="left" src="icons/linux.png" width="35px" />
