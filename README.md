@@ -14,5 +14,6 @@
 ### Languages
 
 <img align="left" src="icons/python.svg" />
-<img align="left" src="icons/linux.png" />
 <img align="left" src="icons/perl.png" />
+<img align="left" src="icons/bash.svg" />
+<img align="left" src="icons/linux.png" />
