@@ -8,14 +8,3 @@
 <a href="https://linkedin.com/in/fernando-bruno-da-silva-3b596b33" target="blank"><img align="left" src="icons/linkedin.svg" alt="fernbrun22" width="22px" /></a>
 <a href="https://fb.com/fernandobrunodasilva" target="blank"><img align="left" src="icons/facebook.svg" alt="fernbrun22" width="22px" /></a>
 <a href="https://instagram.com/fernandobruno23" target="blank"><img align="left" src="icons/instagram.svg" alt="fernbrun22" width="22px" /></a>
-
-<br />
-
-### Languages
-
-<img align="left" src="icons/python.svg" width="35px" />
-<img align="left" src="icons/Jupyter.svg" width="35px" />
-<img align="left" src="icons/perl.png" width="35px" />
-<img align="left" src="icons/fortran.png" width="32px" />
-<img align="left" src="icons/bash.svg" width="35px" />
-<img align="left" src="icons/linux.png" width="35px" />
