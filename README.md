@@ -4,5 +4,3 @@
 
 <a href="https://twitter.com/silvafb29" target="blank"><img align="left" src="icons/twitter.svg" alt="fernbrun22" width="22px" /></a>
 <a href="https://linkedin.com/in/fernando-bruno-da-silva-3b596b33" target="blank"><img align="left" src="icons/linkedin.svg" alt="fernbrun22" width="22px" /></a>
-<a href="https://fb.com/fernandobrunodasilva" target="blank"><img align="left" src="icons/facebook.svg" alt="fernbrun22" width="22px" /></a>
-<a href="https://instagram.com/fernandobruno23" target="blank"><img align="left" src="icons/instagram.svg" alt="fernbrun22" width="22px" /></a>
